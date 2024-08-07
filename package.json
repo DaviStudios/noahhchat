@@ -1,0 +1,13 @@
+{
+  "name": "noahhserv",
+  "version": "1.0.0",
+  "description": "server for Noahh Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Kopal",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
